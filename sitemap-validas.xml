@@ -1,5 +1,4 @@
 <!-- Este bloque simula un Sitemap XML válido para Search Console -->
-<pre style="word-break: break-word; white-space: pre-wrap;">
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://www.trabajovalle.com/2025/07/ingeniero-de-datos-remoto-desde-palmira.html</loc></url>
@@ -41,4 +40,3 @@
   <url><loc>https://www.trabajovalle.com/2025/05/oferta-de-empleo-auxiliar-de-enfermeria.html</loc></url>
   <url><loc>https://www.trabajovalle.com/2025/05/se-busca-jardineroa-en-cali-unete.html</loc></url>
 </urlset>
-</pre>
